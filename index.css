@@ -9,6 +9,13 @@ body {
     padding: 0px;
 }
 
+.about-content {
+    display: inline-block;
+    text align: left;
+    vertical align: top;
+    margin: 45px 50px 50px 50px;
+}
+
 .projects {
     background-color: LightGrey;
     padding: 10px;
