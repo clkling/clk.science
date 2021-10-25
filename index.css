@@ -11,8 +11,8 @@ body {
 
 .about-content {
     display: inline-block;
-    text align: left;
-    vertical align: top;
+    text-align: left;
+    vertical-align: top;
     margin: 45px 50px 50px 50px;
 }
 
